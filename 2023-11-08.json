@@ -1,0 +1,26 @@
+{
+  "name": "Don Arnold",
+  "age": 62,
+  "address": {
+    "street": "Makis Way",
+    "city": "Jomzedgen",
+    "state": "MT",
+    "zip": "51120"
+  },
+  "contact": {
+    "phone": "(482) 878-4102",
+    "servicePhone": "800361181"
+  },
+  "birthday": "1965-07-29T11:57:19.388Z",
+  "ip": "195.182.232.163",
+  "foo": "bar",
+  "profile": {
+    "about": "Aki ecwi ro mos mubwioze caviub atutegif tenow fedu vufcec bohegefe mo. Nev vew filirhij do redewte ri agkem ku duim bakrewnim ojviznur cektew toriab zewago bamar he. Vozij juseneki malweh cohu giiz ferzud murwul lugmirbu jehojic zu locoli cusugoef. Ifodi ru hikcejno wetki imipottun da wiwlewvu ellilho didcik pi nebsopme giwpusen timpof fuhked gawak. Tal miwocce bumoho wusi ra ha becureg sobmeven nihije ukavu nionuboz litozo evueci veodu gitikno mikimeg.",
+    "bio": "Hafeifo cijeziv ehfepsim waczoj zu fedlarge we etpoeju we magor ewjit si. Henu zicuh pomkudap litnoud ibetof larfac je now tomjarnof ho siv rizut umuvjek dieku ezasevda ke. Kubuzum mi ahpoju ji oz ikacul faviah liotsim sasro ide rogezkaj ifsawil."
+  },
+  "apiKey": "9cdac2642c7ff4f87559b87e4bd900148533a9a6d9010ba1efa83729dcb4919b",
+  "currency": {
+    "code": "MXN",
+    "name": "Mexico Peso"
+  }
+}
