@@ -1,0 +1,26 @@
+{
+  "name": "David Christensen",
+  "age": 44,
+  "address": {
+    "street": "Huvku Boulevard",
+    "city": "Pinkivib",
+    "state": "ID",
+    "zip": "09909"
+  },
+  "contact": {
+    "phone": "(482) 611-1584",
+    "servicePhone": "800558593"
+  },
+  "birthday": "1970-08-10T02:43:44.800Z",
+  "ip": "99.112.203.146",
+  "foo": "bar",
+  "profile": {
+    "about": "Pab bu ik ahe jij ufave rizalmob rummekeb ufvo makuc pe ecezibcu jopduuk ruklo ladmukeh gilti. Ricoj nosbicha fiopelod rapwuj gukuwi heki zaisi pa ufleum iwebaaga awu kum zefouh jun. Holudra ehbucac faj lufrik jez buhauvu domoreso fivsonot hejhig usbiak az hubuloc gevapa coklastuc zevepa fo zomzew de. Coumas akkuuf tacvibzi bibbuowo ziwozavo gavzi fundu pusi wazub raveg owri imgudmud nekes kogojtal af ogome dogabso. Javihboz mevuz kih zezusdat lep noedozig fimnit sukfe en wejig cual nizisa hopumib po.",
+    "bio": "Wupugup asmidoc apu pezvudif kipouv hec vuptucro ekav neccel jevov hewem vage odiufezik. Ese givivami taew win fuhaiw pehu jujjad dag ha gowoag lis ishor. Wepazafef zerba bi fudhalozi saur suzit oteno efe amena econiil vi teke."
+  },
+  "apiKey": "9234873cda7a24525aa2a615c7bdcfbcfefa790fe425015c376d02f00c221d61",
+  "currency": {
+    "code": "SAR",
+    "name": "Saudi Arabia Riyal"
+  }
+}
