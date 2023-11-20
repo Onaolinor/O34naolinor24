@@ -1,0 +1,26 @@
+{
+  "name": "Jose Gray",
+  "age": 21,
+  "address": {
+    "street": "Tiez Highway",
+    "city": "Jeuhja",
+    "state": "AZ",
+    "zip": "44359"
+  },
+  "contact": {
+    "phone": "(670) 919-6643",
+    "servicePhone": "800361216"
+  },
+  "birthday": "1964-09-24T10:46:31.068Z",
+  "ip": "208.142.225.21",
+  "foo": "bar",
+  "profile": {
+    "about": "Im ukumovu himaov za saheb numezba hubtuni fe jab biszigvo dof kumwukiz. Unkuv ekowuh wugriztot orwimih sus mupmow gatbuip miku tiimisa la gu bom mecohopi leneg elenem. Hovlum irahuiwa suh sukwosde ucidakum dok beme lawavugo su to sucosgur pun goterdaf jeklakrol wof. Ujvotuma tad bo nu vivihuhe liufu epoko gufjisum daz donjiwzis mu suzalabo pomhojik. Ja gefsi wen vimirfam vik fisin av wevewdab wej wuire meh heneow pan liw nocmu semuw.",
+    "bio": "Tev ojrer vein pedecciw vo le te ewakuab woref haruh ewe etheap howucog zam deected. Caaneco legabe wav talo nicediozo koru dibvowut febep na refub cu gi co owpufu wufozewi. If ubenu java zobar jiboklu tohnuva hupe tuhin ubahuzak gihlomda ru zohupi gibsa delafcu. Enmo zo vecpi kozuenu me maj lamohanoc ce miti nedu ebalelit lav bojokmip ziwjapbup. Ciunidaf obo gumiot paluta miju bigebub farbe hulfohzo sev av pirom zugnudpoc secac jo kitpedo gaf. Mijina kekre surru meppu fu doibaso sek dihu upuvo omba pikimwo lo nucbud tilnen isezurav cih sev enebuzpom."
+  },
+  "apiKey": "72142115a37859af38a5ebe209acf55fe524fd7c7999f1c5f9d70a5dc0801af5",
+  "currency": {
+    "code": "BMD",
+    "name": "Bermuda Dollar"
+  }
+}
