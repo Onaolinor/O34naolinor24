@@ -1,0 +1,26 @@
+{
+  "name": "Mike Clarke",
+  "age": 64,
+  "address": {
+    "street": "Gijle Street",
+    "city": "Tisdocu",
+    "state": "PA",
+    "zip": "20151"
+  },
+  "contact": {
+    "phone": "(373) 303-2723",
+    "servicePhone": "800231562"
+  },
+  "birthday": "1991-06-13T14:49:35.373Z",
+  "ip": "140.252.201.163",
+  "foo": "bar",
+  "profile": {
+    "about": "Eptefve giruvru kaduruv uje kaf nid neif na gijoze ruvve piugodiv kob tawawka cug pajwa nile vi. Re mok lotmah wufbap ohoid ipuame ji bizub cijwolte fatbubi zeve was ri uw zezenba ohiifu. Satha guffahfe mi nuwah gop veduw ac no age leg gu ur nuzekvu vaopi ucpon pozoci kud. Sices imbijed rolvi ta kebu coli rirgeg gi sucvocke ac ircu vidral fakeec tubruljuf.",
+    "bio": "Poos ogo ruzafarec sawsin owiapmef cubdecolu da sem roh pucel zuelu ure ujubibte itsatu soj. Ti dufe ot gevro fulkuz una igupli rukovvi rumsi la rizris vido pi ma ricut kawje zihze. Sorceti utamlu jej emkon ukujo ka bo zomuc mowwekuv mon hekeru tavho."
+  },
+  "apiKey": "c58d56be070ea17b037235890eb09e62190d42f5515e6d6c3fd778a08b28749a",
+  "currency": {
+    "code": "QAR",
+    "name": "Qatar Riyal"
+  }
+}
