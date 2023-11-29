@@ -1,0 +1,26 @@
+{
+  "name": "Brian Miller",
+  "age": 31,
+  "address": {
+    "street": "Duzi Point",
+    "city": "Ratamkaz",
+    "state": "AZ",
+    "zip": "94989"
+  },
+  "contact": {
+    "phone": "(441) 639-4507",
+    "servicePhone": "800414373"
+  },
+  "birthday": "1968-08-23T01:58:29.677Z",
+  "ip": "65.114.87.23",
+  "foo": "bar",
+  "profile": {
+    "about": "Peuf huvsampu guhwiamo meeg kusuoha jukvunpaf gilfow cakhog reimi delip cakug vodokivac guz minel. Gimjamdu eduwi ohu avgugli gitdo kak mopcimgi duwe pepahpuj zojekiz kej utbag. Vibo bakidicuz fal nefo hadhaz voikis ze vijvo ivaneh vid fosfog esetafo.",
+    "bio": "Vimazi atesihgim ubi hi esika ah bawtuwde degahfe tikmeso bo fianejo sulebvu optulwu egu jeosuwec nulabev sid sapeug. Cuga puptebzoj combic zav muwobjat babus rijub efnifi ju om not itakurez buod. Som fomce sajis wapma gehog igge fat ena zem pewi gav kegdat."
+  },
+  "apiKey": "fcc4b41ce8677b5a751e8f7cf6ea1ae5f56cef4b023893863c280fcbcc899f2b",
+  "currency": {
+    "code": "CUC",
+    "name": "Cuba Convertible Peso"
+  }
+}
