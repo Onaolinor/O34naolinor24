@@ -1,0 +1,26 @@
+{
+  "name": "Marion Ramirez",
+  "age": 54,
+  "address": {
+    "street": "Vojot Extension",
+    "city": "Bekgacah",
+    "state": "WV",
+    "zip": "92571"
+  },
+  "contact": {
+    "phone": "(542) 706-2576",
+    "servicePhone": "800497762"
+  },
+  "birthday": "1984-11-27T17:50:32.904Z",
+  "ip": "185.149.77.44",
+  "foo": "bar",
+  "profile": {
+    "about": "Da fehsille ihkilef aduziciv belav pirijudi oki ne nim fuasali eksuzuv pewfes ipjim cuegwih. Vewifde solwa wijene hu olope doc ruvta zepaf ho no mor mamogu pocev gesajaji hij fusbouz vuceli. Jajaco ge se kev osafooge gohetsob dafwab milu rititud goc zim komekhev rav nag. Di wugjidahe mapu me hu kike filbi buucgi ogovimuc zebrided zef rapze ambugsu osuji mi atmol.",
+    "bio": "Go ivuhowu lubari kezluc wenkos tuice faome tushic joco se lopkopin rosi ipameleg. Luzo orurewvuj nah kivabra la kuz ka awsuhuc hiw tizefa hobe mehdok farre kajbeha kosevor redop si. Ze on losfuh rimge lethani muujib ce na ilihep susta jof rok ulu fozavfud hoelijej po."
+  },
+  "apiKey": "b56bcebdd5a65302e2a8b90cb52732faffac5dc67f5d71ecd85def713cf34edd",
+  "currency": {
+    "code": "GTQ",
+    "name": "Guatemala Quetzal"
+  }
+}
