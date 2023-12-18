@@ -1,0 +1,26 @@
+{
+  "name": "Daniel Roberts",
+  "age": 44,
+  "address": {
+    "street": "Sobka Lane",
+    "city": "Vazigazo",
+    "state": "MI",
+    "zip": "28895"
+  },
+  "contact": {
+    "phone": "(410) 762-2932",
+    "servicePhone": "800162268"
+  },
+  "birthday": "2002-12-09T15:34:21.291Z",
+  "ip": "197.194.31.206",
+  "foo": "bar",
+  "profile": {
+    "about": "Zi imutij figpait ogu sazef lozimru ombis vavtoffa winnew imwujzi gofajdar teje evowunfu vocbu ardu. Nil bok zozbolce vodwe rufulnal utadija zojunnop ruk loz hukfuev kabuv ruj guk hib citurvar huwwatuc jev. Bojsig atsefik zunezwu imoifevef uwetite mefco tarose nuubun bamod daspu se decevpac temucko. Pug sidwec teopaeji pi bofen zemibeg emvu riwcus filuho ladutiej fuh ap vehusawag tiz laga ze lo zo. To ra rafar zupedra tiza jekile duv vafew bot piffaabi ja hifip devan vagav.",
+    "bio": "Opoenaju kovzom mukwu awiro jijdiw pom ku ijutawof gicu geme jakeha ihezajviw cilam homsu kuada egtu jovnuvroh ce. Jiku ruglodiw hicanah pezvido so er padi padjo sekhu fi ufijev pupirhi fob giklamla atfabo tuvho dal. Diho paebuizi fosujeg hi valesup dasalefe ka demkunan ejruc roiha suwughij dejdis betozze no vumev ba guk. Muzsegcuf cujih umefo wesavu zumse ho kefobeb lotrapi nimazpus dovabne lus jupteus kifcohan celip. De zifla eweki zutizdo guldon uba nahenvik rekjohla lu wotfo zi loreduci wuuruwe lis havtacco. Acfag abok kevilac utahemo daw deemi delbu sud totih uholucem ohifopuk eroneb fup regu poh ralukzic. Kejsugek garuziopu to ajala cistahe jegog hehoz tipusu ekejamdo enrivfo uvesebwe elafawni."
+  },
+  "apiKey": "3df596b4a79bfa5543f30d3a1f255440e8ec8927e15e1774b08d5ca83be73917",
+  "currency": {
+    "code": "CHF",
+    "name": "Switzerland Franc"
+  }
+}
