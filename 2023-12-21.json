@@ -1,0 +1,26 @@
+{
+  "name": "Lucas Torres",
+  "age": 60,
+  "address": {
+    "street": "Loduk Circle",
+    "city": "Noemote",
+    "state": "DE",
+    "zip": "79879"
+  },
+  "contact": {
+    "phone": "(888) 865-3095",
+    "servicePhone": "800934844"
+  },
+  "birthday": "1985-03-26T19:24:08.924Z",
+  "ip": "50.211.38.107",
+  "foo": "bar",
+  "profile": {
+    "about": "To hof ukkiki meku odfiref azala ohmem bebudi ti fuhovdo seipoju zebwe wiluru jagtem riuni taij filawdos. Ujeaza voceta nef us bufesme pevohte sezesnep lujlaj dim pi kepucume retuki lujovo fetuwvuz gi faldozu foodu. Nedud intewi vadono is ufekun diz ragzeco vazigah eze gos waufinos sojjowun. Izjatfo pumobni asobac ufozara kaveijo umfi pojzadga mi izrijvaz dihhalso hov waib ne kiral vo.",
+    "bio": "Rafipu hoderu bacera emigot wivum dovzaoz pecu sov dujbafon loim na nozobwa du dipgud. Dazzi gafelco bognoise ped dupvoco visopo zipu etofuci rachejmaz hemuza ru di bale duvnef wa puwomned mujpujjav mehiviko. Ro def fuk nisoj kejaregu ku cuga ogovida buj tuelo jinige lig bub oni volzahpef. To arta fiseknip suja bedun tokiro saano pocnah vol horiki vuzpeic jilmu wohiwma. Hu ce gozma ju latulmo livbohfu besciam ce rogbaos jiv ti sazaz hek bibojgom cuj len pihu wovu. Gu hasiig hoc vamzuf romawsel ferow pefiw cecij uptapti pupeb si roaj tujozewi javrikjuh awhu."
+  },
+  "apiKey": "035bd9fa2bb2eef33c3b727b4f48b5a23d92ae112c406d24f10c81a80c4904fd",
+  "currency": {
+    "code": "USD",
+    "name": "United States Dollar"
+  }
+}
