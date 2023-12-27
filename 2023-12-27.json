@@ -1,0 +1,26 @@
+{
+  "name": "Matthew Craig",
+  "age": 39,
+  "address": {
+    "street": "Ilti Key",
+    "city": "Gagcajuz",
+    "state": "RI",
+    "zip": "61630"
+  },
+  "contact": {
+    "phone": "(762) 750-9780",
+    "servicePhone": "800797342"
+  },
+  "birthday": "2002-11-20T11:16:08.580Z",
+  "ip": "42.181.185.240",
+  "foo": "bar",
+  "profile": {
+    "about": "Ma zifut sihodli oz iti uj zulta eja voligu adinizjar avfiz cuivduk vu vo nushahu. Ofuco im reose habtaje ikirec acmemo eduzomu bauhimu lidem mob sutiteh zev wonka nuaka tanjesza. Ra efu bejvafa lej jodafe anda paira puaglon hujzi va ewoffi fil jucu ned.",
+    "bio": "Pu ecaguv hoso oszen ki kewvecro ko kubahined jakov kitatgut rifhac taeh kugar foz fe. Salcif iji afruhi dovewe zud baniosi pipesir lihpum um mibougo je giiga risgu ripcosku. Rajfuwve kejok jemuzude pi lekmumtak niggu zifo sahan wij habfe zugowej hi uwcasfi wi pintuibe wodigtu zo folomom. Naone hukho aja pojavef ap ferop ma re wotsogwu avakibu lus we fepebaez negufer ceim hak deagbok fiohozot. Gelki ere pidi multug voave mammiwfe aboneb sowsok mewtuw wuji huvu pogsisle jiwwein wudpe pemga puci gap wo. Lubditkiw zon atakidin kul abkipul mocajot ade codgaeb jurovwen wizot momugu mewuj be baod wasowoegi fufrejju zezkod holokewe."
+  },
+  "apiKey": "1cf8c80912dae4b9ccb3815246ea692aa05a7fa6197389f8a84101459fb6d80c",
+  "currency": {
+    "code": "BRL",
+    "name": "Brazil Real"
+  }
+}
