@@ -1,0 +1,26 @@
+{
+  "name": "Sam Silva",
+  "age": 43,
+  "address": {
+    "street": "Rahzu Street",
+    "city": "Ekgocuj",
+    "state": "NY",
+    "zip": "41348"
+  },
+  "contact": {
+    "phone": "(654) 718-1510",
+    "servicePhone": "800479665"
+  },
+  "birthday": "1985-12-05T14:19:52.695Z",
+  "ip": "103.105.122.197",
+  "foo": "bar",
+  "profile": {
+    "about": "Getkaipu asotuhgud mejij afuata za vugri gid bihul of zi lociw fi ohmuber kigenner liwidhad higne cewale vijerjuv. Pifet diz diifi gepovap ritogza gahejcaf sugunu eguahaju ricofus zevuw itilecwo suvgoujo kar avoguwsu pe vugozapa ri fummu. Suvahjub onwofwe cevpo cogve olohep tugwulim emsobu uc pe disja kisfobin doksin oza izoif mobufhu jejcip bozoli deocogal. Nu bufmatguw dowu vaerojej pihukgaz kakworwoh vuze fut gud rekupfok lov totlasru opueme cu noug sewzol ufekutoc. Conuuwo dadgo jukume ku wuh efufakfoj lazawge hiav ko uticu olri ner ga tejtatzu luhulek ozijopoc foc od.",
+    "bio": "Esaleg ro duc we havkobov miwo zaf me uta woj li te. Macedgib geno sushi ece gojfipas oko animurem uki ugu mutwujvi fipheopo gedbici ka jugji horode fa bov bahifhe. Ide ba ji sara ve luilupu vunnogwaj ac haziljic ule li du buw gensib satlini. Og moro najniipo red erpelgo lojup eviluike vu fawwel efbis iniwin igjuk."
+  },
+  "apiKey": "d678a033d5e2f6255e71e86de66e6d8fa8584fe1ac555fd47bc59934b5674c45",
+  "currency": {
+    "code": "TRY",
+    "name": "Turkey Lira"
+  }
+}
