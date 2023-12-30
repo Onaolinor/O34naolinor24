@@ -1,0 +1,26 @@
+{
+  "name": "Jane Martinez",
+  "age": 36,
+  "address": {
+    "street": "Pazkoj Way",
+    "city": "Rabigovu",
+    "state": "MS",
+    "zip": "57024"
+  },
+  "contact": {
+    "phone": "(564) 529-9012",
+    "servicePhone": "800128535"
+  },
+  "birthday": "1995-12-13T22:22:50.824Z",
+  "ip": "70.148.146.136",
+  "foo": "bar",
+  "profile": {
+    "about": "Mihnis nero kaj im leg buhoj tudfakos dezzos idemezafo jev ot ro ebaduca ponogo. Law tabad notufij hiawsiv fu zalaco juhlango lutnoc decet iko womi cavvo. Kujbifwij va wet dat baniva ijico hapmovdif zakug zahobpoc vi dijob sitfu. Mogjufaw roroc effi bostokobi bigzi nepnodes gaasnuk idobe ki guzbaj bufdam mokufor co kosdippuj pa voz kizav ceha. Bojfag pemned copucohi curha vo puzu dezfeom repevpes lukhojum aklarmu kotovu zoedbez iwe fosfuz odojofgo mummorib datjirob nuipu. Aciih ruhcaba suklego uha debcil wo gasmudib codvejloz ef zeev tutcaruz ep ro weseva kufavdu ena bezedvoj. Opegu sa ruroziwit wu bigwo gim pihaz dohovvi ile uniance azagice ufhe bokle ofehef diwza we nuhumjoh na.",
+    "bio": "Ler bucud bifuke reswaru lorumri pakcag rocibe jujzu hi cag vub covooge dudgo am cingifnu necu zattasna dem. Biskuvgo kuuju ujvam macku domgus we ah azpeti zub ribcocgir puzuw wamac vob wu ehu jozohma daneaj. Paja gig son kuiwi ombe burzivo coc jewgeaba man acelecav nifziwap pa gebsin rom."
+  },
+  "apiKey": "6b005acd2b2c68844c74e4ad38d493fe01c88c026155c07e8f8d396cf1f704ed",
+  "currency": {
+    "code": "AED",
+    "name": "United Arab Emirates Dirham"
+  }
+}
