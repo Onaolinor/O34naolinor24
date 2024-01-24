@@ -1,0 +1,26 @@
+{
+  "name": "Lida Lopez",
+  "age": 20,
+  "address": {
+    "street": "Zase Junction",
+    "city": "Evasimad",
+    "state": "NH",
+    "zip": "70919"
+  },
+  "contact": {
+    "phone": "(734) 460-8847",
+    "servicePhone": "800485669"
+  },
+  "birthday": "1981-09-25T21:04:53.805Z",
+  "ip": "218.221.108.105",
+  "foo": "bar",
+  "profile": {
+    "about": "Ihkuedu dew mulo nenbasan to hof ow ciz pejopdu bowe hava sodru duj judjeper cow. Za es wivusule jipuf rif adofa lobehit ogedewej neksacup lij baftoiwe bodormot hu megof owigu. Ci saava uti ciwnovim miegruj nin remor tev epetu zibe bi kec hu soc ro gaah kipsesbi. Uf co efeheta dorre fij lawenor sil izrave nadaj dot pe fumnud ved ip.",
+    "bio": "Nemzo muju cufimcom uvwabure tozol rasus lizokowoj mabsijro med jakim seba pila seja fidivauf fujah ov ugkig. Pen new nodespe ninonan futu fol gepalral dezij taguv li loccenlag mikna duwibe mukcidum. Enra wawi zacwu pilulab re cuescid bujni juw duhufe ge ticuw zohodsap verun bolifhul sub orebi ti faduti."
+  },
+  "apiKey": "fe74a24601da9891e8ba5f9132956b41d1cae4a2f2c061d5abd7bf94a74900d7",
+  "currency": {
+    "code": "BBD",
+    "name": "Barbados Dollar"
+  }
+}
