@@ -1,0 +1,26 @@
+{
+  "name": "Dustin Atkins",
+  "age": 31,
+  "address": {
+    "street": "Monur Street",
+    "city": "Nelkivna",
+    "state": "MO",
+    "zip": "44069"
+  },
+  "contact": {
+    "phone": "(733) 676-6429",
+    "servicePhone": "800262876"
+  },
+  "birthday": "1968-10-28T18:21:45.332Z",
+  "ip": "133.161.103.7",
+  "foo": "bar",
+  "profile": {
+    "about": "Ojiib kagtiduj polad zezow uma rufhabuz fa webnahhok ogmaf ukudik dob tuphos utezif mez ilofar. Iwviv ej uso we maogaik toppoc zasfutu elorini wu ruvuopu bipihdi ojgicij kazfelbe gizu avde. Ecobol nahot gimleeta celuwhib fodmaz con rad mijliwcir daca zas kogo vec iconor hikdukop zip genbe ta. Fa zegudteg gefjivow kulvacmu pecza ranepan mukguwdi epoaz pibro nikawop mujefzit ogu jo. Ora ibigefe kot tu ru dicgov dukuhuh ero jucokfi jo sikete evouc dabiwtuw ni veruk lacgoc. Owiedika vojwe cetefaeg mamwah rud dofuwpa acpuhgif vanne laowa sonuevo fuhe awfuip remul udewutoh.",
+    "bio": "Elucegu babi hovu pab cu si di odlaga sackual se kib lav. Moset lar degtemic ub vacal pirizgab etalemoc feno wumviffa un urhiz korti ha ra. Kabdek reku tiz dorarje rucsikco jeamhih sumum ufuvorci lu vapez jit gi larokid iztar gawbo jir obe."
+  },
+  "apiKey": "6d4896301a8c536b903f464031391376b9b5aebb478a22da19f897cb829a3eab",
+  "currency": {
+    "code": "BYR",
+    "name": "Belarus Ruble"
+  }
+}
