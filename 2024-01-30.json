@@ -1,0 +1,26 @@
+{
+  "name": "Scott McCormick",
+  "age": 26,
+  "address": {
+    "street": "Wevi Street",
+    "city": "Dudhokbu",
+    "state": "NY",
+    "zip": "76964"
+  },
+  "contact": {
+    "phone": "(559) 358-7870",
+    "servicePhone": "800947984"
+  },
+  "birthday": "1983-02-06T23:48:19.602Z",
+  "ip": "137.223.28.104",
+  "foo": "bar",
+  "profile": {
+    "about": "Tu pajivwe avatez cinodu peho vafeg mizogu awahi da kuvar ego gu jozboka fezuz ha mopep ne. Rub gi rozu otilazuv buav aklulva wek tup asro fi bop ojapa zo oj. Lil ha davipe hovmi ot ja gakus kev wopjere not dunmuj waiwunar pe wa nimdu az. Ujheta fehi juozerul doma iku ih duf ek fi wonrek esojukjof rafiag mekit. Ku civhabi tic wiuvjog valfaffuf goj bobi giohase go nihiw ge ubfiv hacogani irdu powbe boiruuku.",
+    "bio": "Nah pebdilab kur lu lob hot ofdofsom divoljik deegioc eweannez ejdo jutetvi. Jesetatec huwcas logi ji damvij sebzojeb captitke kaco jinfi jora bonip wis wecmemet mijo ve lovpazmo gocig. Ekuzuoda bufizpak eki abu bijun he oro rob vuwvokdul uviru poglic wafis vihude nurka wuwgeece. Odju lav apigdir forazlus voflaiva sizal mucma uteme so pe za onmamkiw ozhijbaf ebufim vek."
+  },
+  "apiKey": "d476670e4cb5368e244429a2c7d0a573c72574e9a85e5371b581d9ab327368aa",
+  "currency": {
+    "code": "PKR",
+    "name": "Pakistan Rupee"
+  }
+}
