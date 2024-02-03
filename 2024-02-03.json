@@ -1,0 +1,26 @@
+{
+  "name": "Bertie Glover",
+  "age": 59,
+  "address": {
+    "street": "Zuso Manor",
+    "city": "Eswaza",
+    "state": "IA",
+    "zip": "38952"
+  },
+  "contact": {
+    "phone": "(907) 752-1166",
+    "servicePhone": "800675777"
+  },
+  "birthday": "1992-07-24T01:36:48.835Z",
+  "ip": "65.137.132.247",
+  "foo": "bar",
+  "profile": {
+    "about": "Wifegnit oze jaso lo ma joh an hom ka woperi wi ito zo joasofo. Kivupul dugelawa usotufo ned weolugis vo uvrac feza uwhiar muspa ra fapmiw kidoh laltegec zapar. Deupege zilevsuz ilrez jemsus duvmevem ku kiephi kujogkad gifusput isetep zis dut bijuzu purfuri rumtilror metneta.",
+    "bio": "Giuno bon suh podiafa owi tuv nunupwa ritso vuw ik rutpa do gerhi vij akbape zastipu jilur zupuszun. Huzfub sekir galmicub puvrikun odugepavi vedgu supiono ofu wotiz wecipzu bopwosun fibtaj sealut kafva derfujon jotzipma vavughe mem. Huk burzotor borgu asa ni wefaw itulo vemadip ohteku cun cello epepir emavucac lezuvi hakat."
+  },
+  "apiKey": "ee75b3fed9f05abf77b2536c93aa01ed7d582f1e97a6c490d5909a6457261514",
+  "currency": {
+    "code": "BRL",
+    "name": "Brazil Real"
+  }
+}
