@@ -1,0 +1,26 @@
+{
+  "name": "David Brooks",
+  "age": 58,
+  "address": {
+    "street": "Obace River",
+    "city": "Ejiwocne",
+    "state": "KS",
+    "zip": "66764"
+  },
+  "contact": {
+    "phone": "(816) 546-2885",
+    "servicePhone": "800373136"
+  },
+  "birthday": "1983-01-05T20:56:43.995Z",
+  "ip": "177.36.215.42",
+  "foo": "bar",
+  "profile": {
+    "about": "Wahwuhlaf davjojom luwje ji sozamuv gulze rep sebteh avfag olwipkol vajon as nahotlo hifsotmad. Ewizu kooj pif malcok ju zak widek nuhmu rosi ogahug rolo nilonpi lejrav iziwuka wonrar cifeawi tofitlez. Ojetudu vevejful jolgo pa ti neowenel heh zulhiz rec hebmes rugol vo rim lu toruhset. Fiw la awa faokpob afaedeome ra fuwnim mapanin ni ubfeupo hujlemrep iclul. Vojire kejmodip pifah owi komla ro zisomes punsohles coh kid fed ehzesfi zicazoj ew ne. Gigoji sufu za kunwawosi idododol muhumwi ecbu nivabeci kowa furulgo zucedek besugabo ava. Vokuteg gok zo rasafi revu sidav coar mopo ucafeji budlehe sa ohjoobe mikajrow.",
+    "bio": "Ik bi gih hu buzwic ahedean kiun cow hahjamir ge uvto vaksuz toupudu mug gocop ipa. Bim dur ijlo biga lossut lef lawupa iwetik fupro rec enzenmo no. Na dowal zi jagkudkar od ugitu suiki licpasju ro naflivip fid uzo za wof apiza tojsovug jopopo ba."
+  },
+  "apiKey": "2a95a5d9c156179c8a3e638c7e16da560aa85de9272468bfd7f6b011523a6943",
+  "currency": {
+    "code": "SRD",
+    "name": "Suriname Dollar"
+  }
+}
