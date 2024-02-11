@@ -1,0 +1,26 @@
+{
+  "name": "Lydia Russell",
+  "age": 44,
+  "address": {
+    "street": "Ukjik Mill",
+    "city": "Rifelna",
+    "state": "SD",
+    "zip": "08378"
+  },
+  "contact": {
+    "phone": "(433) 948-9162",
+    "servicePhone": "800146183"
+  },
+  "birthday": "1998-01-24T02:03:22.899Z",
+  "ip": "176.243.215.84",
+  "foo": "bar",
+  "profile": {
+    "about": "Uw ve koglevij co laadda fonag dandaw ah mij ilodotso kead junuvama. Gep ne li gahituri kekegvec zol awuajusos hekna zemti gupfi ilobo li fo pufef. Bi kus ro jiwrar metpura son igu ecfeev hu zo weidsu leleiw cokhoc. Zepe zof ilinitu ganaj nag pug jim dateki tujva pubad ke man nazab kegeddac homut.",
+    "bio": "Kobizwoj tut rovzerru lewashup colgave sovohore urbocdub bitvouhu wuwdop hocpukuvo pujgewba ja ekikis gu sov mahifba niwubwow. Sedkihi ikbibwuf jen dew fatbus esopoj davup rekenu ilepuj viozare muv mol ume tepihkod. Jak nohgo taj dugubaoz uke vukavaz lerapjob gehhuz noba rouwcu toziog enola."
+  },
+  "apiKey": "3cb792e2af6681b2edcd1621b2c66555429ad6e7a860a483fc67070d22c603b4",
+  "currency": {
+    "code": "USD",
+    "name": "United States Dollar"
+  }
+}
