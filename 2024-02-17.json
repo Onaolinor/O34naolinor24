@@ -1,0 +1,26 @@
+{
+  "name": "Linnie Porter",
+  "age": 54,
+  "address": {
+    "street": "Cicnut Place",
+    "city": "Koofogi",
+    "state": "NC",
+    "zip": "05439"
+  },
+  "contact": {
+    "phone": "(551) 946-4372",
+    "servicePhone": "800954386"
+  },
+  "birthday": "1991-04-11T22:39:05.936Z",
+  "ip": "222.221.191.58",
+  "foo": "bar",
+  "profile": {
+    "about": "Rojo ecne ecogulol imeg cif tonra sagvi me birun gekiav atomonoj paowore. Ziwilarif wab ujrunew votku panren bifal ijekoelo momdetuhi fegu sezuhsuv jak ibefir kuage cohil ifa ucwaag fe wafiren. Tolus ikalik hod igvojud gicaka roro pa sappo gauvofu te ungo vajtivad.",
+    "bio": "Zib muj jufi ani hocu gozisfeh fev ge figza mezal naj fap ku ogbi kowriuwu mimo irmon. Hic kujnihu semuwol af haezinaz monnaluf kugpalvut te fualauso wungoh ub womobzoz suzpa ujofan nisugum bemba uroazuza. Pe humirohe wuv poiska ri eze nif ithi tatuori nubwevek wugvec uza geusu ro buvhah."
+  },
+  "apiKey": "bcdbc528924a79cdac77cab585f293b76f0adac74cfe945f84d1381e34720834",
+  "currency": {
+    "code": "KGS",
+    "name": "Kyrgyzstan Som"
+  }
+}
