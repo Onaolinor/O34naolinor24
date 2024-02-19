@@ -1,0 +1,26 @@
+{
+  "name": "Brian Gutierrez",
+  "age": 40,
+  "address": {
+    "street": "Sema Street",
+    "city": "Aletgok",
+    "state": "CA",
+    "zip": "63745"
+  },
+  "contact": {
+    "phone": "(559) 730-1395",
+    "servicePhone": "800485385"
+  },
+  "birthday": "2000-10-16T10:35:04.628Z",
+  "ip": "164.129.30.235",
+  "foo": "bar",
+  "profile": {
+    "about": "Mapru reluwjuh rum mo foh egionpuv hovetaze owco nifcueka apu oku uj embejaf. Ogiwufla wojuav bitge nih duw wizru pu wuutheh soazo jup miilele orju omaros did pe hab. Ge tona mewi cezhaf su ugzuv koiv sevjefig jubodas te mibjudu anniniw usi tazepaz. Bitaeka ekodec zizu ahhaho hi memaphim vubfu bo vedpad soomfeh owesew bazrige. Duvsobig we megmoffan becotu roawiel omuveko cuwe nu puso piz muhiuku jahottuv lin lijowmis cevvih ki wawjeew.",
+    "bio": "Ifoipuci koglucu vigow zogza ja vubapi gusujfa pe on zovib eticol sow ceigpiw. Av solwotlic ner amabun rinu idbepuh vo cawiw izuimle gugmit zub neec kowuhwaf ir. Ordotca zocag rehocsat gekmus rimher toedruh jiveko miar nek cujeppe tegtope zu ha umalivwut embiklep."
+  },
+  "apiKey": "3c2a2c6fcc68d55e3f2212f9011b6f91a3f5fbae5fa80d83182b25800586021b",
+  "currency": {
+    "code": "IMP",
+    "name": "Isle of Man Pound"
+  }
+}
