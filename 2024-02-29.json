@@ -1,0 +1,26 @@
+{
+  "name": "Allie May",
+  "age": 31,
+  "address": {
+    "street": "Cemko Parkway",
+    "city": "Catkotcu",
+    "state": "OK",
+    "zip": "46658"
+  },
+  "contact": {
+    "phone": "(208) 249-1808",
+    "servicePhone": "800267755"
+  },
+  "birthday": "1978-11-26T20:30:37.329Z",
+  "ip": "128.60.112.61",
+  "foo": "bar",
+  "profile": {
+    "about": "Tan huaher vo esofu intidov repjezgic eta kudrago so jifah daaspo godev. Ken guh fezve iv dut ushatwi otavecuf du seecvi ijautono eke sike obika zoklaham ri nos ti. Cuulmi juvahze mo sa hagnomit oz dokihog evi osibebi adbiv ris borfij. Gaeve wez warijaf kevahu ba esep rimhuvos seztajetu zu mobota ha zim wucat rigtepwek ba paw seza. Jaed conider ewaheswo vejavsa carwu ekovo cuvebod afgen ra ci ve ehiugulog juzosnog. Navfan fezsefja sowegja hirhoghu bewlowdib unep wutham rijusi esba gu ciwnedhit co. Polfali waw nu no ofibi nu junuh isumegnin fotijru rewwuh maldemlor bim sotfi saj no.",
+    "bio": "Ruwje adduizu puk gune ka homosa huc ejogof guci bobpatbim ud rugoel ga evadolu gabe. Zajaeta huuvude oruzokleg avwelof hokcuw soc ud wuma levih tulet powjako fonib dud ozi vo dil ote. Suhalul ji zalo komethe ihesbod osa cirapsuk do oz suj ifje folbe rah igbe orukalta hamlimdot."
+  },
+  "apiKey": "503a32682eb5d7cb8f2830872d586579efee9838db438295dba2ffc68689c298",
+  "currency": {
+    "code": "VND",
+    "name": "Viet Nam Dong"
+  }
+}
