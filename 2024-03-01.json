@@ -1,0 +1,26 @@
+{
+  "name": "Cameron Manning",
+  "age": 18,
+  "address": {
+    "street": "Netol Center",
+    "city": "Maobameh",
+    "state": "DE",
+    "zip": "08720"
+  },
+  "contact": {
+    "phone": "(563) 901-3034",
+    "servicePhone": "800742948"
+  },
+  "birthday": "1961-11-24T05:16:14.107Z",
+  "ip": "248.29.28.23",
+  "foo": "bar",
+  "profile": {
+    "about": "Puvziwjom fabno zo goica reugadu bomci ojukepuzu ze mevojibo juro setpe niro escosos uticca houn bezbueb giceh. Saij dif loj ki deocuvu vi no le zel batgauw zav ri. Hod vawog fodumgu ninab tuvje jujur zog oneum ejeder awcod giunumow rev giume vekiv lopdibji runav luc. Upi lofep dih zurum voutvuv du guubune vusge co vohaihi debla ra.",
+    "bio": "Ezwece vupcikhe azizimev sebe tutjoguga koczot nof fec bobbajpe ki koz woroz ug rupdohu vo an cutti. Nudahilu ujowis neb len cukemo diz akog tubtu wijibeh le zeskeboc fuzregu iliwor hes cuccanzuj. Ovsav kid irapadun vad ebhev kiap ina punip dajizjod heabati padpa obu muvitad umimuas lorwu."
+  },
+  "apiKey": "f0094a1debc563919490791da4422d2530962a5b4ef86f2067bdacbd441f149a",
+  "currency": {
+    "code": "TRY",
+    "name": "Turkey Lira"
+  }
+}
