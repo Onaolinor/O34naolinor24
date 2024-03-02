@@ -1,0 +1,26 @@
+{
+  "name": "Stanley Brady",
+  "age": 29,
+  "address": {
+    "street": "Zakkaw Terrace",
+    "city": "Neucueke",
+    "state": "MT",
+    "zip": "81375"
+  },
+  "contact": {
+    "phone": "(339) 392-8225",
+    "servicePhone": "800958759"
+  },
+  "birthday": "1989-07-12T09:46:44.447Z",
+  "ip": "78.124.253.187",
+  "foo": "bar",
+  "profile": {
+    "about": "No addukle figew leppiwzi zo bevlu dam omnunob akav weus jajizat sun niovoaju. Hosejjo kati nifek zatcu akpo aru beufjiz jiwefji veved fuuk naneri gu. He jiw pu mokuzrin nulwas wu javbiz perfennob uje vodop cocujcog mohvisfap za pif eramu zupalu inupufa tebum.",
+    "bio": "Posel kusaw kiuspu necujad rosi vuwjugtip zerculev ricatre rakse bupipmo fiwdiok caz gumafefu miru ijuru pocakbe. Dulhumzim alpet icluh ojsano jevumhe kofedov izva delum hur zilpaan ja kadak akkeos becsevi samuri nupojouvo wisteher nurwoewu. Luga ja tewcopa vomuhjed ebe lipzefa nimmi git mop zo guc um ci hopeg to pe."
+  },
+  "apiKey": "9de9d3d3348a6ff37456b7529fc208c7b90c79a83f41beb0637266227c98fb0d",
+  "currency": {
+    "code": "XPF",
+    "name": "Comptoirs Français du Pacifique (CFP) Franc"
+  }
+}
