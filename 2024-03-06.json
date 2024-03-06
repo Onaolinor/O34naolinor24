@@ -1,0 +1,26 @@
+{
+  "name": "Jon Allison",
+  "age": 21,
+  "address": {
+    "street": "Gaco Drive",
+    "city": "Mopaso",
+    "state": "IA",
+    "zip": "27866"
+  },
+  "contact": {
+    "phone": "(586) 939-8729",
+    "servicePhone": "800557669"
+  },
+  "birthday": "2002-11-19T16:07:05.670Z",
+  "ip": "187.140.48.90",
+  "foo": "bar",
+  "profile": {
+    "about": "Te hafnuj pab mejvomde lemode cap pot nan ushal hemuri imevete lage bo wadvoznas ezwi oz jengi. Kocra joz vi jojehfoz hunus manij nauki gej cac zoz raz apkimur cesfitsah joz tuucitu ozilakhu vo bozegre. Henig ce ac fa rimecepe ov fa jeewe miwaf zujod puweoma jozevbes ic.",
+    "bio": "Medfirji wiebiho le cimojozoc ut gactowame goed zasuhe vunrewu ivugocat fotonke koki obmatdu. So ilu cabe huule kijuf zupgi ud mef ug osasadeb ifugate geozi megzitu. Zuvovse ruret timwuh lit lubus torgan wajujbor luk gaweate jeji canvol tattof. Ajfeg heari hosmudul ruzuvgaw net gokki oroje voro fuz macodazeb lihlehvoh zajungu nocokkuz vulih ulapa or cup maima."
+  },
+  "apiKey": "a6c307fdacf5ab1119888b33b3055e78bc7e893a680a8e3f2d8a33e8d62c86d3",
+  "currency": {
+    "code": "ARS",
+    "name": "Argentina Peso"
+  }
+}
