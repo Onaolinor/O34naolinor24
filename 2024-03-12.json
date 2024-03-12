@@ -1,0 +1,26 @@
+{
+  "name": "Mark Harvey",
+  "age": 61,
+  "address": {
+    "street": "Orih Center",
+    "city": "Ilesuced",
+    "state": "NV",
+    "zip": "83381"
+  },
+  "contact": {
+    "phone": "(414) 489-9339",
+    "servicePhone": "800818798"
+  },
+  "birthday": "1974-11-11T22:02:41.993Z",
+  "ip": "142.119.136.101",
+  "foo": "bar",
+  "profile": {
+    "about": "Hokrizcif vaoke moahewo medfehota ja zut volufu tarjol bulodru ogo fozeh unrupo vomidba lohroweme tacozo idopahej wiljobos. Pafavigev ohogorco movisu afuefufa uji ju remhurjav uvnale igalu pokko eteusos cel. Zuw ru tamu haurocu husujef bosde lekiige no tej juda tuhamin let lu avhe vejpi.",
+    "bio": "Puzkuhhi ca uzoep tenuz he davbocu memad ok kib ofde odanuh me zi jo gaknocte. Fagocziw dagcogdon mop bor wemol zohte igesu pelic obki ubupisab zilic lu zazasgeg zer vun fowhubger itfu ja. Ut mo ge ake cu dali sez jek ege nuje balesujuf gafjewec rig lobinju cibsiira sogemu menzu ige."
+  },
+  "apiKey": "7a4a138d288ed4d27d23b56dc947e7f3176840a0f1b7bc5700912d5313a5e72b",
+  "currency": {
+    "code": "VUV",
+    "name": "Vanuatu Vatu"
+  }
+}
