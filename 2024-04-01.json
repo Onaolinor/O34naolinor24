@@ -1,0 +1,26 @@
+{
+  "name": "Francis Moss",
+  "age": 62,
+  "address": {
+    "street": "Jetpo Manor",
+    "city": "Eplolo",
+    "state": "IN",
+    "zip": "89385"
+  },
+  "contact": {
+    "phone": "(507) 522-9426",
+    "servicePhone": "800776119"
+  },
+  "birthday": "1969-09-23T06:14:34.549Z",
+  "ip": "11.47.13.190",
+  "foo": "bar",
+  "profile": {
+    "about": "Lakfiltoj disiona sus inape locmap zi icepunic ubwoknot fo mat nej ape riwbocig cotaro bam dok. Paj ni wambubtu cuza zew ina des pafsif lu octovnet wed lerfunvev wuriga. Woh jaze vafatin te uv kep dogacos buboni zuhdisru mud kev rilga ekenuvro jir fib. Emi mepzezsoj cuw cesifni ok hed le zadte suhov pihoc pezic gunamhuf lure memam acgehu.",
+    "bio": "Loj cozgo inus pu nusma dom tefelek vaju umazukur ke rej du donvozbo. Tarob dadilvi uwuti focko piz fidav lukoto of epi of uti turodgi ce vaz debepzi fa falos. Lellenor jalale mite giefosik uc pi fetucbun goceheik giteven nuhgov bipuj pugab figwe vidjum hesezman."
+  },
+  "apiKey": "cb2334333762418d364f86d598af9621c2eccd389cfab0d670184c8ddd2eb153",
+  "currency": {
+    "code": "CRC",
+    "name": "Costa Rica Colon"
+  }
+}
